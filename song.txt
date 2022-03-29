@@ -1,10 +1,7 @@
 bla bla bla
 tra tra tra
-<<<<<<< HEAD
 
 pupa pupa
 <<<<<<< HEAD
 pupa pupa
 ---------------
-=======
->>>>>>> parent of ca2224d (finist commint)
