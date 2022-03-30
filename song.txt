@@ -5,3 +5,6 @@ pupa pupa
 <<<<<<< HEAD
 pupa pupa
 ---------------
+
+bla bla bla
+tra tra tra
